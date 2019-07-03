@@ -1,4 +1,4 @@
 # testProject
 Testing project for embedded CI
 
-to je spremeba #6
+to je spremeba #7
