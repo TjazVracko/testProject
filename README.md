@@ -1,5 +1,5 @@
 # testProject
 Testing project for embedded CI
 
-to je spremeba #15
+to je spremeba #16
 
